@@ -3,4 +3,5 @@ This is an example of a simple Text Editor which is developed in python using tk
 1. Adding a more elegant view for the app.
 2. Creating icon for editor.
 3. Adding various commands like cut, copy, paste and many more.
-4. Making the application cross platform (Currently files only run on Windows). And many more :)
+4. Making the application cross platform (Currently the application runs only on Windows). 
+And many more :)
