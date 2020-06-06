@@ -5,3 +5,5 @@ This is an example of a simple Text Editor which is developed in python using tk
 3. Adding various commands like cut, copy, paste and many more.
 4. Making the application cross platform (Currently the application runs only on Windows). 
 And many more :)
+# Contribute
+If you want to contribute to this repository, Just Go Ahead! and CONTRIBUTE!!😀
